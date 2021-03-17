@@ -5,6 +5,10 @@
         console.log( "Hello World!" );
 
     }
+    
+    console.log("Something");
+    
+    alert("Something");
 
 
 
